@@ -1,5 +1,7 @@
 ## Portfolio Website
 
+![Screensnap](https://github.com/Ankit-Ghosh/Portfolio_Website/assets/114979946/99480d1e-d890-48f7-9036-9a51aa72591a)
+
 Welcome to my personal portfolio website! Here, you'll find a collection of my work, skills, and experiences.
 Through this website, I aim to showcase my journey, accomplishments, and aspirations. Feel free to learn more about my skills and connect with me through the contact form.
 Thank you for visiting, and I hope you enjoy browsing through my portfolio!
