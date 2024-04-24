@@ -39,4 +39,5 @@ To clone the repository and run the website locally, follow these steps:
 
 ## Preview
 
-https://github.com/Ankit-Ghosh/Portfolio_Website/assets/114979946/c98f5709-a8c7-4042-86eb-1fab8384f6ff
+[Portfolio Walkthrough](https://github.com/Ankit-Ghosh/Portfolio_Website/assets/114979946/e58c07e8-d7bc-42bd-a5d3-2150df8277fe
+)
