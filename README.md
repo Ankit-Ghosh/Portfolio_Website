@@ -1,4 +1,4 @@
-# Portfolio Website
+## Portfolio Website
 
 Welcome to my personal portfolio website! Here, you'll find a collection of my work, skills, and experiences.
 Through this website, I aim to showcase my journey, accomplishments, and aspirations. Feel free to learn more about my skills and connect with me through the contact form.
