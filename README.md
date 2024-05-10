@@ -21,6 +21,8 @@ Thank you for visiting, and I hope you enjoy browsing through my portfolio!
 - **FontAwesome:** Integrated for icons and symbols.
 - **EmailJS Integration:** Seamlessly integrated EmailJS API for the contact form functionality, enabling direct email submissions from the website without the need for server-side code.
 
+## URL - https://ankitghosh-portfolio.netlify.app/
+
 ## Usage
 
 To clone the repository and run the website locally, follow these steps:
